@@ -1,0 +1,24 @@
+.titleTxt{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.article{
+    border: 3px solid blue;
+    padding: 5px;
+    margin: 15px;
+    background-color: #e0ffff;
+}
+
+.linkBtn, .saveBtn{
+    background-color: white;
+    border: 2px solid #708090;
+    height: 35px;
+    min-width: 100px;
+    cursor:pointer
+}
+
+.linkBtn:hover, .saveBtn:hover{
+    background-color: #708090;
+    color:white;
+}
